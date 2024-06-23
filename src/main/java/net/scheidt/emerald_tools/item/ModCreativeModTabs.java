@@ -18,6 +18,10 @@ public class ModCreativeModTabs {
                     .title(Component.translatable("creativetab.emerald_tools_tab"))
                     .displayItems((displayParameters, output) -> {
                         output.accept(ModItems.EMERALD_PICkAXE.get());
+                        output.accept(ModItems.EMERALD_SWORD.get());
+                        output.accept(ModItems.EMERALD_AXE.get());
+                        output.accept(ModItems.EMERALD_HOE.get());
+                        output.accept(ModItems.EMERALD_SHOVEL.get());
                     }).build());
 
 

@@ -1,4 +1,8 @@
 {
   "item.emerald_tools.emerald_pickaxe": "Emerald Pickaxe",
+  "item.emerald_tools.emerald_axe": "Emerald Axe",
+  "item.emerald_tools.emerald_sword": "Emerald Sword",
+  "item.emerald_tools.emerald_shovel": "Emerald Shovel",
+  "item.emerald_tools.emerald_hoe": "Emerald Hoe",
   "creativetab.emerald_tools_tab": "Emerald Tools"
 }
